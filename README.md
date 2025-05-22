@@ -41,4 +41,4 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, el desarr
 
 ---
 
-Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar, compartir ideas y aprender juntos! 🚀
+Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar, compartir ideas y aprender juntos! 🚀 
