@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Youness
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante/apasionado por la tecnología, el desarrollo de software y la inteligencia artificial. Me gusta construir proyectos que resuelvan problemas reales y siempre estoy aprendiendo nuevas tecnologías.
+Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, el desarrollo de software y la inteligencia artificial. Me encanta construir proyectos que resuelvan problemas reales y siempre estoy aprendiendo nuevas tecnologías.
 
 ---
 
@@ -33,12 +33,12 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante/apasionado por la tecnologí
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 Contacto
 
-- ✉️ Email: younesseljylaly100@gmail.com
-- 🔗 LinkedIn: *www.linkedin.com/in/youness-el-jylaly*
-- 🌍 GitHub: [github.com/JHYouness](https://github.com/JHYouness)
+- ✉️ **Email:** younesseljylaly100@gmail.com  
+- 🔗 **LinkedIn:** [www.linkedin.com/in/youness-el-jylaly](https://www.linkedin.com/in/youness-el-jylaly)  
+- 🌍 **GitHub:** [github.com/JHYouness](https://github.com/JHYouness)
 
 ---
 
-Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender! 🚀
+Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar, compartir ideas y aprender juntos! 🚀
