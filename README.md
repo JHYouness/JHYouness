@@ -35,8 +35,8 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante/apasionado por la tecnologí
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Email: (younesseljylaly100@gmail.com)
-- 🔗 LinkedIn: *(www.linkedin.com/in/youness-el-jylaly)*
+- ✉️ Email: younesseljylaly100@gmail.com
+- 🔗 LinkedIn: *www.linkedin.com/in/youness-el-jylaly*
 - 🌍 GitHub: [github.com/JHYouness](https://github.com/JHYouness)
 
 ---
