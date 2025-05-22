@@ -43,7 +43,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_Logo.svg" height="40" alt="Power BI"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="40" alt="Grafana"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" height="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow"/>
 </p>
 
 ---
