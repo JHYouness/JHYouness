@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm passionate about technology, software development, and artificial intelligence.<br/>
-  I enjoy building projects that solve real-world problems and I'm always learning something new.
+  I love building real-world solutions and continuously learning new tools and frameworks.
 </p>
 
 ---
@@ -15,28 +15,35 @@
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🚀 Technologies & Tools I Use
+
+- 🔧 **Languages**: Python, JavaScript, Bash, Java, Dart  
+- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn  
+- 🤖 **Machine & Deep Learning**: TensorFlow, Keras, PyTorch  
+- 🐘 **Big Data**: Apache Spark, Apache Airflow  
+- 🌐 **Web Development**: Flask, FastAPI, HTML, CSS  
+- 🐳 **Containers**: Docker, Docker Compose  
+- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, Cloud SQL  
+- 🧠 **Other Tools**: Power BI, Grafana, Git, GitHub Actions  
+
+---
+
+## 🖥️ Icon Showcase
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nodejs,react,angular,nextjs,java,spring,git,aws,docker,mysql,postgres,mongodb,express,graphql,figma,github,linux,markdown,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch" />
 </p>
 
----
-
-## 🔥 Featured Projects
-
-- 🧠 **Popular Tweet Classifier** – Predicts tweet engagement using machine learning models.
-- 📊 **Educational Dashboard** – Academic performance analysis using Power BI and ITACA data.
-- 🖼️ **Minor Detection System in Images** – Distributed system with Flask, OpenCV, and neural networks.
-- 🌡️ **Classroom Behavior Prediction** – API built with regression and classification models to predict temperature and behavior.
-
----
-
-## 📈 GitHub Stats
-
+<!-- Manual logos for those not available in skillicons.dev -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHYouness&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHYouness&layout=compact&theme=radical" height="160"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_Logo.svg" height="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="40" alt="Grafana"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" height="40" alt="Power BI"/>
 </p>
 
 ---
@@ -49,4 +56,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by! I'm always open to collaboration and learning 🚀</p>
+<p align="center">Thanks for visiting! I'm always open to collaborating and growing 🚀</p>
