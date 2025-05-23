@@ -40,11 +40,20 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_Logo.svg" height="40" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" height="40" alt="Power BI"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="40" alt="Grafana"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow"/>
 </p>
+
+---
+
+## 🔥 Featured Projects
+
+- 🧠 **Popular Tweet Classifier** – Predicting tweet engagement using machine learning models.  
+- 📊 **Educational Dashboard** – Academic performance analysis using Power BI and ITACA data.  
+- 🖼️ **Minor Detection in Images** – Distributed system using Flask, OpenCV, and neural networks.  
+- 🌡️ **Classroom Behavior Prediction** – API with regression and classification models for temperature and state prediction.  
 
 ---
 
