@@ -25,8 +25,8 @@
 - 🐳 **Containers**: Docker, Docker Compose  
 - 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, Cloud SQL  
 - ☁️ **Cloud Platforms**:  
-  - **AWS**: EC2, S3, RDS, Lambda  
-  - **Google Cloud**: Compute Engine, Cloud Functions, Cloud SQL, Dataproc  
+  - **AWS**: EC2, S3, RDS, Athena, Glue, Lambda  
+  - **Google Cloud**: Compute Engine, Cloud Functions, Cloud SQL, Dataproc
 - 🧠 **Other Tools**: Power BI, Grafana, Git, GitHub Actions  
 
 ---
