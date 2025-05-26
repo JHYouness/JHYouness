@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm passionate about technology, software development, and artificial intelligence.<br/>
-  I love building real-world solutions and continuously learning new tools and frameworks.
+  I love building real-world solutions and continuously learning new tools, frameworks, and cloud platforms.
 </p>
 
 ---
@@ -24,6 +24,9 @@
 - 🌐 **Web Development**: Flask, FastAPI, HTML, CSS  
 - 🐳 **Containers**: Docker, Docker Compose  
 - 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, Cloud SQL  
+- ☁️ **Cloud Platforms**:  
+  - **AWS**: EC2, S3, RDS, Lambda  
+  - **Google Cloud**: Compute Engine, Cloud Functions, Cloud SQL, Dataproc  
 - 🧠 **Other Tools**: Power BI, Grafana, Git, GitHub Actions  
 
 ---
@@ -34,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,bash,html,css" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mysql,sqlite" />
   <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
 
 <!-- Manual logos for those not available in skillicons.dev -->
@@ -52,8 +56,9 @@
 
 - 🧠 **Popular Tweet Classifier** – Predicting tweet engagement using machine learning models.  
 - 📊 **Educational Dashboard** – Academic performance analysis using Power BI and ITACA data.  
-- 🖼️ **Minor Detection in Images** – Distributed system using Flask, OpenCV, and neural networks.  
-- 🌡️ **Classroom Behavior Prediction** – API with regression and classification models for temperature and state prediction.  
+- ☁️ **Cloud-Based ETL Pipelines** – Distributed data workflows using Apache Airflow on Google Cloud Dataproc and AWS Lambda.  
+- 🖼️ **Minor Detection in Images** – Distributed system using Flask, OpenCV, and neural networks hosted with Docker on cloud infrastructure.  
+- 🌡️ **Classroom Behavior Prediction** – API with regression and classification models deployed via AWS and GCP services.  
 
 ---
 
