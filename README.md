@@ -62,8 +62,6 @@
 ---
 
 ## 📫 Contact Me
-
-- ✉️ **Email:** younesseljylaly100@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/youness-el-jylaly](https://www.linkedin.com/in/youness-el-jylaly)  
 - 🌍 **GitHub:** [github.com/JHYouness](https://github.com/JHYouness)
 
